@@ -33,8 +33,7 @@ header {
 nav {
   float: left;
   width: 30%;
-  height: 700px; /* only for demonstration, should be removed */
-  background: #FBF8EF;
+  background-color: #FBF8EF;
   padding: 20px;
 }
 
@@ -43,7 +42,6 @@ article {
   padding: 20px;
   width: 70%;
   background-color: #FBF8EF;
-  height: 700px; /* only for demonstration, should be removed */
 }
 
 /* Clear floats after the columns */
@@ -77,4 +75,14 @@ h3 {
 
 .rabat {
     font-size: 50px;
+}
+
+/* Shop */
+.basket{
+    font-size: 120%;
+    color: white;
+    background-color: green;
+    margin-left: 5%;
+    border-radius: 25px;
+    padding: 10px;
 }
