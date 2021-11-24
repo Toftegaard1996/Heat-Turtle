@@ -15,10 +15,6 @@ header {
   font-size: 35px;
   color: white;
 }
-.kass{
-    border: 2px solid black;
-    
-}
 
 .velkommen{
     width: 50%;
@@ -78,11 +74,24 @@ h3 {
 }
 
 /* Shop */
+.kass{
+    border: 2px solid black;
+    padding: 5px;
+}
+
 .basket{
     font-size: 120%;
     color: white;
     background-color: green;
     margin-left: 5%;
-    border-radius: 25px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.back{
+    font-size: 120%;
+    color: white;
+    background-color: green;
+    border-radius: 15px;
     padding: 10px;
 }
